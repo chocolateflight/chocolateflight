@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Marc!
-- 👀 I’m studying Business Administration and learning how to code!
+👋 Hi, welcome to my profile! My name is Marc 
 
-<!---
-chocolateflight/chocolateflight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Studying for a Bachelor's of Science in Business Administration (graduating 2023)
+
+💻 Currently working in Social Media & Marketing
+
+⌨️ Learning new skills: I'm currently learning Front-End Development
+
+💡 Great interest in digitalization, communication, and innovation
+
+🌈 I am an AvGeek and LGBT+ Ally who loves to travel around the world
+
+🚀 What defines me: I am a dependable team player who can work independently as well, I'm motivated, flexible & adaptable, and open-minded
