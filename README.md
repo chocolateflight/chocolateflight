@@ -12,4 +12,4 @@
 
 🚀 What defines me: I am a dependable team player who can work independently as well, I'm motivated, flexible & adaptable, and open-minded
 
-🎒 You can find some of my previous projects directly in my GitHub repositories or here: [Portfolio Website](https://chocolateflight.github.io/)
+🎒 You can find some of my previous projects directly in my GitHub repositories
