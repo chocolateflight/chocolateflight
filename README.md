@@ -1,10 +1,10 @@
-👋 Hi, welcome to my profile! My name is Marc 
+👋 Hi, welcome to my profile! My name is Marc
+
+⌨️ Learning new skills for the future: I'm currently learning Full-Stack Web Development
 
 🎓 Studying for a Bachelor's of Science in Business Administration (graduating 2023)
 
-💻 Currently working in Social Media & Marketing
-
-⌨️ Learning new skills: I'm currently learning Front-End Development
+💻 Social Media and Marketing Intern with several years of professional experience in Private Banking with a strong focus on personal advisory services and communication
 
 💡 Great interest in digitalization, communication, and innovation
 
